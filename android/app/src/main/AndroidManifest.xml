@@ -26,6 +26,7 @@
         <category android:name="android.intent.category.BROWSABLE"/>
         <data android:scheme="ase-tunes"/>
         <data android:scheme="com.felixase.asetunes"/>
+        <data android:scheme="exp+ase-tunes"/>
       </intent-filter>
     </activity>
     <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" android:exported="false"/>
